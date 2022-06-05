@@ -1,0 +1,28 @@
+@font-face {
+   font-family: nasalization;
+   src: url(../fonts/nasalization-free/nasalization-rg.otf);
+}
+body {
+   background-image: url(../images/cordoba-mezquita-y-puente-romano.jpg);
+   margin: 0;
+}
+.contact-data {
+   background-color: #800000;
+   color: yellow;
+   font-family: nasalization;
+   text-align: center;
+   padding: 20px;
+}
+a {
+   text-decoration: none;
+   color: yellow;
+}
+.hashtags {
+   background-color: #000080;
+   color: white;
+   font-family: nasalization;
+   text-align: center;
+   padding: 10px;
+   font-size: 0.8em;
+   font-weight: bold;
+}
