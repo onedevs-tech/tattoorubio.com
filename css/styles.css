@@ -74,8 +74,15 @@ a.a-tattoo-rubio {
 .bio {
    font-family: alphabetized-cassette-tapes;
    margin-top: 150px;
-   background-repeat: no-repeat;
    background-color: rgba(200, 200, 200, 0.5);
+   text-align: center;
+   color: white;
+   font-size: 40pt;
+}
+
+.friends {
+   font-family: alphabetized-cassette-tapes;
+   margin-top: 150px;
    text-align: center;
    color: white;
    font-size: 40pt;
