@@ -20,6 +20,7 @@
          Baltasar<br />
          Roberto Soldado<br />
          Bud Croke<br />
+         Miguel "Tattoo"<br />
       </div>
    </body>
 </html>
