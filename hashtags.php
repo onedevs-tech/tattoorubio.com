@@ -1,9 +1,9 @@
 <div class="hashtags">
-   #tattoorubio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   #internationaltattoo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   #networktattoo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   #londonstyle &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   #loveforukraine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   #cordoba &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   #spain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <span>#tattoorubio</span>
+   <span>#internationaltattoo</span>
+   <span>#networktattoo</span>
+   <span>#londonstyle</span>
+   <span>#loveforukraine</span>
+   <span>#cordoba</span>
+   <span>#spain</span>
 </div>
