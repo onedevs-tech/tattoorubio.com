@@ -33,6 +33,14 @@
             'mr8GBzTsWqM', // Indian Flute Meditation Music || Pure Positive Vibes || Instrumental Music for Meditation and Yoga
             'xecukJDAPcw', // Música para Activar la Glándula Pineal - Tercer Ojo Abierto - Activación del Tercer Ojo
             'Uql3mAPuxdg', // PRODIGY - RUN WITH THE WOLVES
+            '4bZ1wSjfBr4', // Alejandro Sanz - Yo No Quiero Suerte
+            'rog8ou-ZepE', // Vanilla Ice - Ice Ice Baby (Official Music Video)
+            'rcjVjqTARKA', // Cool as Ice - Everybody Get Loose - HD rip
+            'otCpCn0l4Wo', // M.C. Hammer - U Can't Touch This
+            'HFCv86Olk8E', // MC Hammer - 2 Legit 2 Quit (Official Video)
+            '9EcjWd-O4jI', // Technotronic - Pump Up The Jam (Official Music Video)
+            'XhzpxjuwZy0', // House of Pain - Jump Around (Official Music Video)
+            
          ];
          $youtube_video = $ids_youtube_videos[\array_rand($ids_youtube_videos)];
       ?>
