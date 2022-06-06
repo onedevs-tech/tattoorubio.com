@@ -88,3 +88,42 @@ a.a-tattoo-rubio {
    font-size: 40pt;
    text-shadow: 2px 2px black;
 }
+
+.wrapper-home.principal-bg{
+   background-image: url(../images/tattoo-rubio.jpg); 
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.wrapper-bio.principal-bg{
+   background-image: url(../images/tattoo-rubio.jpg); 
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.wrapper-work.principal-bg{
+   background-image: url(../images/machine-tattoo.jpg); 
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.wrapper-friends.principal-bg{
+   background-image: url(../images/egyptian-women.jpg); 
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.wrapper-partners.principal-bg{
+   background-image: url(../images/anubis.jpg); 
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+.wrapper-red-serpent{
+   background: black;
+}
+.wrapper-red-serpent img{
+   width: 100%;
+   max-width:750px;
+}
