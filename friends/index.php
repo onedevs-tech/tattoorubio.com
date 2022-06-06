@@ -22,5 +22,6 @@
          Khris Middleton<br />
          Miguel "Tattoo"<br />
       </div>
+      <script src="../js/main.js"></script>
    </body>
 </html>

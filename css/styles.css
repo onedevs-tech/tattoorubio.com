@@ -29,12 +29,21 @@ a.a-tattoo-rubio {
 
 .contact-data {
    background-color: black;
-   background-image: url(../images/ojo-de-horus.png);
-   background-repeat: no-repeat;
    color: yellow;
    font-family: nasalization;
+   padding: 15px 30px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.contact-data .logo {
    text-align: center;
-   padding: 33px;
+}
+.contact-data .logo img{
+   max-width:80px;
+}
+.icon-responsive{
+   display: none;
 }
 
 .hashtags {
@@ -126,4 +135,82 @@ a.a-tattoo-rubio {
 .wrapper-red-serpent img{
    width: 100%;
    max-width:750px;
+}
+
+.menu {
+   gap: 15px;
+   display: flex;
+   align-items: center;
+}
+
+.menu a:hover{
+   color: red;
+}
+.contact-item a{
+   display: block;
+}
+.contact-item {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   gap: 5px;
+}
+
+@media screen and (max-width: 850px){
+   .menu{
+      display: none;
+   }
+   .menu.active {
+      display: flex;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,.8);
+      color: white;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+  }
+   .logo{
+      z-index:99;
+   }
+   .icon-responsive{
+      z-index:99;
+      padding: 20px 30px;
+      width: 10px;
+      display: block;
+      cursor: pointer;
+      position: absolute;
+      right: 0;
+   }
+   .icon-responsive span {
+      background: white;
+      position: absolute;
+      width: 30px;
+      height: 1px;
+      right: 20px;
+  }
+  .icon-responsive span::before {
+      content: "";
+      background: white;
+      position: absolute;
+      width: 30px;
+      height: 1px;
+      right: 20px;
+      top: -8px;
+      left: 0;
+   }
+   .icon-responsive span::after {
+      content: "";
+      background: white;
+      position: absolute;
+      width: 30px;
+      height: 1px;
+      right: 20px;
+      top: 8px;
+      left: 0;
+   }
 }

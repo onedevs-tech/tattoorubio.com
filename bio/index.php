@@ -17,5 +17,6 @@
             my hobbies and what I like<br />
          ♡ PEACE ♡<br />
       </div>
+      <script src="../js/main.js"></script>
    </body>
 </html>

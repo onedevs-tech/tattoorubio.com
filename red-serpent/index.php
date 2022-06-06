@@ -9,5 +9,6 @@
       <center>
          <img src="../images/red-serpent.jpeg" />
       </center>
+      <script src="../js/main.js"></script>
    </body>
 </html>

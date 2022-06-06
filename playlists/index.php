@@ -45,5 +45,6 @@
          $youtube_video = $ids_youtube_videos[\array_rand($ids_youtube_videos)];
       ?>
       <iframe width="100%" height="100%" src="https://www.youtube.com/embed/<?= $youtube_video ?>" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   </body>
+         <script src="../js/main.js"></script>
+      </body>
 </html>
