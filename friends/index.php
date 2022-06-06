@@ -19,7 +19,7 @@
          Ruth "Fumetas"<br />
          Baltasar<br />
          Roberto Soldado<br />
-         Bud Croke<br />
+         Khris Middleton<br />
          Miguel "Tattoo"<br />
       </div>
    </body>
