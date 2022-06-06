@@ -30,6 +30,8 @@
             'Ypkv0HeUvTc', // Marilyn Manson - The Beautiful People (Official Video)
             'v2AC41dglnM', // AC/DC - Thunderstruck (Official Video)
             'l482T0yNkeo', // AC/DC - Highway to Hell (Official Video)
+            'mr8GBzTsWqM', // Indian Flute Meditation Music || Pure Positive Vibes || Instrumental Music for Meditation and Yoga
+            'xecukJDAPcw', // Música para Activar la Glándula Pineal - Tercer Ojo Abierto - Activación del Tercer Ojo
          ];
          $youtube_video = $ids_youtube_videos[\array_rand($ids_youtube_videos)];
       ?>
