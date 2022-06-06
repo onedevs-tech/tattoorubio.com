@@ -9,7 +9,7 @@
       <?php include '../contact-data.php'; ?>
       <?php include '../hashtags.php'; ?>
       <div class="friends">
-         Cristina <span style="font-size: 0.5em;">♡</span><br />
+         <span style="font-size: 0.5em;">♡</span> Cristina <span style="font-size: 0.5em;">♡</span><br />
          Edu<br />
          Kike<br />
          Juanito<br />
