@@ -1,28 +1,82 @@
 @font-face {
    font-family: nasalization;
-   src: url(../fonts/nasalization-free/nasalization-rg.otf);
+   src: url(/fonts/nasalization-free/nasalization-rg.otf);
 }
+
+@font-face {
+   font-family: trivenia;
+   src: url(/fonts/trivenia/trivenia.regular.otf);
+}
+
+@font-face {
+   font-family: alphabetized-cassette-tapes;
+   src: url(/fonts/alphabetized-cassette-tapes/alphabetized-cassette-tapes.ttf);
+}
+
 body {
-   background-image: url(../images/cordoba-mezquita-y-puente-romano.jpg);
    margin: 0;
+   background-color: black;
 }
+
+a {
+   text-decoration: none;
+   color: white;
+}
+
+a.a-tattoo-rubio {
+   color: red;
+}
+
 .contact-data {
-   background-color: #800000;
+   background-color: black;
+   background-image: url(../images/ojo-de-horus.png);
+   background-repeat: no-repeat;
    color: yellow;
    font-family: nasalization;
    text-align: center;
-   padding: 20px;
+   padding: 33px;
 }
-a {
-   text-decoration: none;
-   color: yellow;
-}
+
 .hashtags {
-   background-color: #000080;
+   background-color: #800000;
    color: white;
    font-family: nasalization;
    text-align: center;
    padding: 10px;
    font-size: 0.8em;
    font-weight: bold;
+}
+
+.tattoo-types {
+   margin-top: 150px;
+   background-repeat: no-repeat;
+   background-color: rgba(200, 200, 200, 0.5);
+   font-family: trivenia;
+   text-align: center;
+   font-size: 30pt;
+   color: white;
+}
+
+.phone {
+   background-color:rgba(128, 128, 128, 0.5);
+   font-family: nasalization;
+   text-align: center;
+   padding: 20px;
+   line-height: 3.5;
+}
+
+.phone td {
+   color: yellow;
+   font-weight: bold;
+   font-size: 1.2em;
+}
+
+.bio {
+   font-family: alphabetized-cassette-tapes;
+   margin-top: 150px;
+   background-repeat: no-repeat;
+   background-color: rgba(200, 200, 200, 0.5);
+   text-align: center;
+   color: white;
+   font-size: 40pt;
 }
