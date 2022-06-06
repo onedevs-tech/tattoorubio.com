@@ -12,9 +12,9 @@
          <span style="font-size: 0.5em;">♡</span> Cristina <span style="font-size: 0.5em;">♡</span><br />
          Edu<br />
          Kike<br />
-         Juanito<br />
          Vero<br />
          Richal<br />
+         Juanito<br />
          Antonio "Palomeke"<br />
          Ruth "Fumetas"<br />
          Baltasar<br />
