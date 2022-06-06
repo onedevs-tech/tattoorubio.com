@@ -12,6 +12,6 @@
    <img src="/images/spain-flag.png" height="17" align="absmiddle" /> &nbsp;
    <img src="/images/uk-flag.png" height="17" align="absmiddle" /> &nbsp;
    <img src="/images/germany-flag.png" height="17" align="absmiddle" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="/red-serpent/">♡</a>
+   <a href="/red-serpent/">❤️</a>
    <span style="float: right;">†</span>
 </div>
