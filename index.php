@@ -3,6 +3,7 @@
       <title>tattoo_RUBIO</title>
       <meta charset="UTF-8" />
       <link rel="icon" href="images/fire.png" type="image/x-icon" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet" href="css/styles.css?v=1.0">
    </head>
    <body class="wrapper-home principal-bg"  >
@@ -23,12 +24,12 @@
          Tribal<br />
       </div>
       <div class="phone">
-         <table align="center">
-            <tr>
-               <td><img src="images/whatsapp.svg" align="absmiddle" /></td>
-               <td style="padding-top: 4px;">+34 643 562 490</td>
-            </tr>
-         </table>
+        
+            
+               <div><img src="images/whatsapp.svg" align="absmiddle" /></div>
+               <div style="padding-top: 4px;">+34 643 562 490</div>
+          
+   
       </div>
       <script src="js/main.js"></script>
    </body>

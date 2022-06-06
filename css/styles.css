@@ -65,6 +65,10 @@ a.a-tattoo-rubio {
    font-size: 30pt;
    color: white;
 }
+.friends{
+   background-color: rgba(200, 200, 200, 0.5);
+   padding: 100px 0;
+}
 
 .phone {
    background-color:rgba(128, 128, 128, 0.5);
@@ -74,10 +78,14 @@ a.a-tattoo-rubio {
    line-height: 3.5;
 }
 
-.phone td {
+.phone  {
    color: yellow;
    font-weight: bold;
    font-size: 1.2em;
+   display: flex;
+   justify-content: center;
+   align-items:center;
+   gap:10px;
 }
 
 .bio {
@@ -87,6 +95,7 @@ a.a-tattoo-rubio {
    text-align: center;
    color: white;
    font-size: 40pt;
+   padding: 100px 0;
 }
 
 .friends {
@@ -212,5 +221,28 @@ a.a-tattoo-rubio {
       right: 20px;
       top: 8px;
       left: 0;
+   }
+   .phone  {
+      flex-direction:column;
+      gap: 0;
+   }
+   .tattoo-types{
+      margin-top: 0;
+      height: 100%;
+      padding: 100px 0;
+      padding-bottom: 0;
+   }
+   .friends{
+      margin-top: 0;
+      height: 100%;
+      padding: 100px 0;
+      padding-bottom: 0;
+      background-color: rgba(200, 200, 200, 0.5);
+   }
+   .bio{
+      margin-top: 0;
+      padding-left: 30px;
+      padding-right:30px;
+  
    }
 }
