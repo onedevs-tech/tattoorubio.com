@@ -5,7 +5,7 @@
       <link rel="icon" href="../images/fire.png" type="image/x-icon" />
       <link rel="stylesheet" href="../css/styles.css?v=1.0">
    </head>
-   <body style="background-color: black;">
+   <body style="background-image: url(../images/anubis.jpg); background-size: 100% auto;">
       <?php include '../contact-data.php'; ?>
       <?php include '../hashtags.php'; ?>
    </body>
