@@ -10,12 +10,14 @@
       <?php include '../contact-data.php'; ?>
       <?php include '../hashtags.php'; ?>
       <div class="bio">
-         Hi buddy,<br />
+         Hello friend!<br />
+         My name is Sergio Ruiz and<br />
+         I am a professional tattoo artist<br />
          My friends know me as "El Rubio"<br />
-         I carry tattoos in my veins<br />
-         Soon I will expand this section and<br />
+         You can also find me on the Net as SARM<br />
+         I carry tattoos in my veins, soon I will expand this section and<br />
             you will be able to know more about me,<br />
-            my hobbies and what I like<br />
+            my hobbies, what I do and what I like<br />
          ♡ PEACE ♡<br />
       </div>
       <script src="../js/main.js"></script>
