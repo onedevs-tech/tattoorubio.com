@@ -19,9 +19,29 @@
       <a href="/red-serpent/">❤️</a>
       <div class="contact-item">
          <div class="flags">
-            <img src="/images/spain-flag.png" height="17" align="absmiddle" /> 
-            <img src="/images/uk-flag.png" height="17" align="absmiddle" /> 
-            <img src="/images/germany-flag.png" height="17" align="absmiddle" /> 
+            <?php
+
+               //
+               // random flag order
+               //
+
+               $flags = [
+                  'france-flag.jpg',
+                  'germany-flag.png',
+                  'italy-flag.png',
+                  'russia-flag.png',
+                  'spain-flag.png',
+                  'uk-flag.png',
+                  'portugal-flag.png',
+                  'ukrania-flag.png',
+                  'usa-flag.png',
+               ];
+               \shuffle($flags);
+               foreach ($flags as $flag) {
+                  echo '<img src="/images/' . $flag . '" height="12" align="absmiddle" /> ';
+               }
+            ?>
+
          </div>
          <a href="mailto:tattoorubioake@gmail.com">tattoorubioake@gmail.com</a>
          <a href="tel:+34643562490">+34 643 562 490</a> 
