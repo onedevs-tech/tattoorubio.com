@@ -44,7 +44,6 @@
                   echo '<img src="/images/' . $flag . '" height="12" align="absmiddle" /> ';
                }
             ?>
-
          </div>
          <a href="mailto:tattoorubioake@gmail.com">tattoorubioake@gmail.com</a>
          <a href="tel:+34643562490">+34 643 562 490</a> 
