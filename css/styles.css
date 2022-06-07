@@ -170,6 +170,33 @@ a.a-tattoo-rubio {
    justify-content: center;
    flex-wrap: wrap;
 }
+.imgtribal{
+   height: 70px;
+}
+@media screen and (max-width: 1800px){
+   .t3{
+      display: none;
+   }
+}
+@media screen and (max-width: 1540px){
+   .t2{
+      display: none;
+   }
+}
+@media screen and (max-width: 1180px){
+   .t1{
+      display: none;
+   }
+}
+@media screen and (max-width: 850px) and (min-width: 570px){
+   .t1{
+      display: block;
+      position: absolute;
+      left: 50%;
+      top: 15px;
+      transform: translateX(-40%);
+   }
+}
 @media screen and (max-width: 850px){
    .menu{
       display: none;

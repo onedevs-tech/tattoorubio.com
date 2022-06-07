@@ -7,9 +7,12 @@
          </div>
       </a>
    </div>
+   <div class="tribal">
+      <img src="/images/tribal2.png" alt="tribal" class="imgtribal t1">
+      <img src="/images/tribal2.png" alt="tribal" class="imgtribal t2">
+      <img src="/images/tribal2.png" alt="tribal" class="imgtribal t3">
+   </div>
    <div class="menu">
-      
-      
       <a href="/bio/">bio</a> 
       <a href="/works/">works</a> 
       <a href="/friends/">friends</a> 
