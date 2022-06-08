@@ -12,7 +12,6 @@
          Custom Style<br />
          Dotwork<br />
          Fantasy<br />
-         London Style<br />
          Neo Japan<br />
          Neotrad<br />
          Old School<br />
