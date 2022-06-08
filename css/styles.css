@@ -173,17 +173,13 @@ a.a-tattoo-rubio {
 .imgtribal{
    height: 70px;
 }
-@media screen and (max-width: 1800px){
-   .t3{
-      display: none;
-   }
-}
-@media screen and (max-width: 1540px){
+@media screen and (max-width: 2080px){
    .t2{
       display: none;
    }
 }
-@media screen and (max-width: 1180px){
+
+@media screen and (max-width: 1520px){
    .t1{
       display: none;
    }
@@ -195,6 +191,8 @@ a.a-tattoo-rubio {
       left: 50%;
       top: 15px;
       transform: translateX(-40%);
+      height: 40px;
+      top: 33px;
    }
 }
 @media screen and (max-width: 850px){
