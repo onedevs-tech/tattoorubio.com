@@ -45,7 +45,7 @@
                }
             ?>
          </div>
-         <a href="mailto:tattoorubioake@gmail.com">tattoorubioake@gmail.com</a>
+         <a href="mailto:akhenaton33tattoo@gmail.com">akhenaton33tattoo@gmail.com</a>
          <a href="tel:+34643562490">+34 643 562 490</a> 
       </div>
       <span>†</span>
