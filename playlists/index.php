@@ -33,6 +33,9 @@
             '1V_xRb0x9aw', // Gorillaz - Clint Eastwood (Official Video)
             '_NksGaZJQRI', // The Heat (The Energy)
             'jbMt47Ovvtc', // Boris Brejcha Legendary Megamix 1/The best of Boris Brejcha
+            'R8MWKsheHxk', // 'The Journey' (2 Hour Drum & Bass Mix)
+            'niqrrmev4mA', // Lady Gaga - Alejandro (Official Music Video)
+            'pEEMi2j6lYE', // Michael Jackson - Stranger In Moscow (Official Video)
          ];
          $youtube_video = $ids_youtube_videos[\array_rand($ids_youtube_videos)];
       ?>
