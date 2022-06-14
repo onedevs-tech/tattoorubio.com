@@ -1,5 +1,7 @@
         
 <?php
+    $type = 'soundcloud'; //soundcloud or youtube
+
     $ids_youtube_videos = [
     'xecukJDAPcw', // Música para Activar la Glándula Pineal - Tercer Ojo Abierto - Activación del Tercer Ojo
     '4bZ1wSjfBr4', // Alejandro Sanz - Yo No Quiero Suerte
@@ -29,8 +31,21 @@
     'jbMt47Ovvtc', // Boris Brejcha Legendary Megamix 1/The best of Boris Brejcha
     ];
     $youtube_video = $ids_youtube_videos[\array_rand($ids_youtube_videos)];
+
+    $ids_soundcloud = [
+        '1263179941', 
+        '1023940438', 
+        '231155880', 
+        ];
+        $soundcloud_music = $ids_soundcloud[\array_rand($ids_soundcloud)];
 ?>
 
-    <div data-video="<?= $youtube_video ?>" data-autoplay="1" data-loop="1" id="youtube-audio"></div>
-    <script src="https://www.youtube.com/iframe_api"></script>
-    <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script> 
+    <?php if($type == 'youtube'){ ?>
+        <div data-video="<?= $youtube_video ?>" data-autoplay="1" data-loop="1" id="youtube-audio"></div>
+        <script src="https://www.youtube.com/iframe_api"></script>
+        <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script> 
+    <?php }else if($type == 'soundcloud') {?>
+        <div class="soundcloud" style="width:250px;background: white;padding: 5px;">
+            <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/<?= $soundcloud_music ?>&color=0066cc&amp;auto_play=true&amp;show_artwork=false"></iframe>
+        </div>
+    <?php }?>
