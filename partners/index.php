@@ -6,5 +6,6 @@
       <?php include '../menu-and-contact-data.php'; ?>
       <?php include '../hashtags.php'; ?>
       <script src="../js/main.js"></script>
+      <?php include '../sounds.php'; ?>
    </body>
 </html>

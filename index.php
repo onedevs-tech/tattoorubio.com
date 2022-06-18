@@ -23,5 +23,6 @@
          <div style="padding-top: 4px;">+34 643 562 490</div>
       </div>
       <script src="js/main.js"></script>
+      <?php include 'sounds.php'; ?>
    </body>
 </html>

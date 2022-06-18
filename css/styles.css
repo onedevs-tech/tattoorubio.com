@@ -36,13 +36,16 @@ a.a-tattoo-rubio {
    align-items: center;
    justify-content: space-between;
 }
+
 .contact-data .logo {
    text-align: center;
 }
-.contact-data .logo img{
+
+.contact-data .logo img {
    max-width:80px;
 }
-.icon-responsive{
+
+.icon-responsive {
    display: none;
 }
 
@@ -65,6 +68,7 @@ a.a-tattoo-rubio {
    font-size: 30pt;
    color: white;
 }
+
 .friends{
    background-color: rgba(200, 200, 200, 0.5);
    padding: 100px 0;
@@ -107,41 +111,46 @@ a.a-tattoo-rubio {
    text-shadow: 2px 2px black;
 }
 
-.wrapper-home.principal-bg{
+.wrapper-home.principal-bg {
    background-image: url(../images/tattoo-rubio.jpg); 
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
 }
-.wrapper-bio.principal-bg{
+
+.wrapper-bio.principal-bg {
    background-image: url(../images/tattoo-rubio.jpg); 
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
 }
-.wrapper-work.principal-bg{
+
+.wrapper-work.principal-bg {
    background-image: url(../images/machine-tattoo.jpg); 
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
 }
-.wrapper-friends.principal-bg{
+
+.wrapper-friends.principal-bg {
    background-image: url(../images/egyptian-women.jpg); 
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
 }
-.wrapper-partners.principal-bg{
+
+.wrapper-partners.principal-bg {
    background-image: url(../images/anubis.jpg); 
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
 }
 
-.wrapper-red-serpent{
+.wrapper-red-serpent {
    background: black;
 }
-.wrapper-red-serpent img{
+
+.wrapper-red-serpent img {
    width: 100%;
    max-width:750px;
 }
@@ -152,40 +161,46 @@ a.a-tattoo-rubio {
    align-items: center;
 }
 
-.menu a:hover{
+.menu a:hover {
    color: red;
 }
-.contact-item a{
+
+.contact-item a {
    display: block;
 }
+
 .contact-item {
    display: flex;
    flex-direction: column;
    justify-content: center;
    gap: 5px;
 }
-.hashtags{
+
+.hashtags {
    display: flex;
    gap: 10px;
    justify-content: center;
    flex-wrap: wrap;
 }
-.imgtribal{
+
+.imgtribal {
    height: 70px;
 }
-@media screen and (max-width: 2080px){
-   .t2{
+
+@media screen and (max-width: 2080px) {
+   .t2 {
       display: none;
    }
 }
 
-@media screen and (max-width: 1520px){
-   .t1{
+@media screen and (max-width: 1520px) {
+   .t1 {
       display: none;
    }
 }
-@media screen and (max-width: 850px) and (min-width: 570px){
-   .t1{
+
+@media screen and (max-width: 850px) and (min-width: 570px) {
+   .t1 {
       display: block;
       position: absolute;
       left: 50%;
@@ -195,8 +210,9 @@ a.a-tattoo-rubio {
       top: 33px;
    }
 }
-@media screen and (max-width: 850px){
-   .menu{
+
+@media screen and (max-width: 850px) {
+   .menu {
       display: none;
    }
    .menu.active {
@@ -212,11 +228,11 @@ a.a-tattoo-rubio {
       justify-content: center;
       align-items: center;
       text-align: center;
-  }
-   .logo{
+   }
+   .logo {
       z-index:99;
    }
-   .icon-responsive{
+   .icon-responsive {
       z-index:99;
       padding: 20px 30px;
       width: 10px;
@@ -252,27 +268,34 @@ a.a-tattoo-rubio {
       top: 8px;
       left: 0;
    }
-   .phone  {
+   .phone {
       flex-direction:column;
       gap: 0;
    }
-   .tattoo-types{
+   .tattoo-types {
       margin-top: 0;
       height: 100%;
       padding: 100px 0;
       padding-bottom: 0;
    }
-   .friends{
+   .friends {
       margin-top: 0;
       height: 100%;
       padding: 100px 0;
       padding-bottom: 0;
       background-color: rgba(200, 200, 200, 0.5);
    }
-   .bio{
+   .bio {
       margin-top: 0;
       padding-left: 30px;
       padding-right:30px;
-  
    }
+}
+
+#youtube-icon {
+   display: none !important;
+}
+
+.soundcloud {
+   vertical-align: bottom;
 }

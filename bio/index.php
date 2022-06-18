@@ -16,5 +16,6 @@
          ♡ PEACE ♡<br />
       </div>
       <script src="../js/main.js"></script>
+      <?php include '../sounds.php'; ?>
    </body>
 </html>

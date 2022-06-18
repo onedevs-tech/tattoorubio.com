@@ -7,5 +7,6 @@
          <img src="../images/red-serpent.jpeg" />
       </center>
       <script src="../js/main.js"></script>
+      <?php include '../sounds.php'; ?>
    </body>
 </html>
