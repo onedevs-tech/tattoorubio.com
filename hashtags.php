@@ -1,8 +1,8 @@
 <div class="hashtags">
-   <span>#tattoorubio</span>
-   <span>#networktattoo</span>
-   <span>#internationaltattoo</span>
-   <span>#loveforukraine</span>
-   <span>#cordoba</span>
-   <span>#spain</span>
+   <span>#TattooRubio</span>
+   <span>#TattooNetwork</span>
+   <span>#TattooInternational</span>
+   <span>#LoveForUkraine</span>
+   <span>#Córdoba</span>
+   <span>#Spain</span>
 </div>

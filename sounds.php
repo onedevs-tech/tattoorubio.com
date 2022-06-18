@@ -3,9 +3,27 @@
     $music_platform = 'soundcloud'; // soundcloud or youtube
 
     $ids_soundcloud = [
-        '1263179941', 
-        '1023940438', 
-        '231155880', 
+        '1160419546',
+        '1273552501',
+        '1278807421',
+        '1280005735',
+        '1283361829',
+        '1284510631',
+        '1285919842',
+        '143041228',
+        '143041228',
+        '168419155',
+        '181443158',
+        '188289230',
+        '261483992',
+        '340072602',
+        '341726585',
+        '341761439',
+        '345676513',
+        '353439659',
+        '40255829',
+        '97287230',
+        '98328980',
     ];
 
     $selected_soundcloud = $ids_soundcloud[\array_rand($ids_soundcloud)];
@@ -46,8 +64,8 @@
 
     <?php if ($music_platform === 'soundcloud') : ?>
 
-        <div class="soundcloud">
-            <iframe width="100%" height="50" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/<?= $selected_soundcloud ?>&color=0066cc&amp;auto_play=true&amp;show_artwork=false"></iframe>
+        <div class="soundcloud" style="position: fixed; bottom: 0;">
+            <iframe height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/<?= $selected_soundcloud ?>&color=0066cc&amp;auto_play=true&amp;show_artwork=true"></iframe>
         </div>
 
     <?php endif ?>

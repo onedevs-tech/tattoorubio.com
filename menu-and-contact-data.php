@@ -18,7 +18,7 @@
       <a href="/partners/">partners</a> 
       <a href="https://www.google.com/maps/place/Tattoo+Rubio/@37.8796277,-4.7641025,15z/data=!4m5!3m4!1s0x0:0x2f00d03d2594bb24!8m2!3d37.8796277!4d-4.7641025">work center</a>
       <!-- <a href="/playlists/">🎧</a> -->
-      <a href="/red-serpent/">❤️</a>
+      <a href="/angelita/">❤️</a>
       <div class="contact-item">
          <div class="flags">
             <?php
@@ -44,7 +44,6 @@
                }
             ?>
          </div>
-         <a href="mailto:akhenaton33tattoo@gmail.com">akhenaton33tattoo@gmail.com</a>
          <a href="tel:+34643562490">+34 643 562 490</a> 
       </div>
       <span>†</span>

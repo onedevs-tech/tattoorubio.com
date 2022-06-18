@@ -6,6 +6,8 @@
       <?php include 'menu-and-contact-data.php'; ?>
       <?php include 'hashtags.php'; ?>
       <div class="tattoo-types">
+         <u>Tattoo Styles</u>:<br />
+         <br />
          Afro<br />
          Black & Grey<br />
          Blackwork<br />
