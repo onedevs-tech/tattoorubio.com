@@ -6,7 +6,7 @@
       <?php include '../menu-and-contact-data.php'; ?>
       <?php include '../hashtags.php'; ?>
       <div class="bio">
-         Hello! My name is Sergio Ruiz and<br />
+         Hello! My name is Sergio Antonio Ruiz and<br />
          I am a professional tattoo artist<br />
          My friends know me as "El Rubio"<br />
          You can also find me on the Net as SARM<br />
@@ -16,6 +16,6 @@
          ♡ PEACE ♡<br />
       </div>
       <script src="../js/main.js"></script>
-      <?php include '../sounds.php'; ?>
+      <?php // include '../sounds.php'; ?>
    </body>
 </html>

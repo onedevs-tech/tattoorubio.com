@@ -7,7 +7,7 @@
          <img src="../images/angelita.png" />
       </center>
       <script src="../js/main.js"></script>
-      <?php include '../sounds.php'; ?>
+      <?php // include '../sounds.php'; ?>
    </body>
 </html>
 

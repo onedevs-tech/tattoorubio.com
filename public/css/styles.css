@@ -69,7 +69,7 @@ a.a-tattoo-rubio {
    color: white;
 }
 
-.friends{
+.friends {
    background-color: rgba(200, 200, 200, 0.5);
    padding: 100px 0;
 }
@@ -82,7 +82,7 @@ a.a-tattoo-rubio {
    line-height: 3.5;
 }
 
-.phone  {
+.phone {
    color: yellow;
    font-weight: bold;
    font-size: 1.2em;
@@ -296,4 +296,15 @@ a.a-tattoo-rubio {
 
 .soundcloud {
    vertical-align: bottom;
+}
+
+.partners {
+   background-color: rgba(200, 200, 200, 0.5);
+   color: white;
+   font-family: alphabetized-cassette-tapes;
+   font-size: 40pt;
+   margin-top: 150px;
+   padding: 100px 0;
+   text-align: center;
+   text-shadow: 2px 2px black;
 }
