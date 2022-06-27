@@ -146,13 +146,6 @@ a.a-tattoo-rubio {
    background-position: center;
 }
 
-.wrapper-angelita {
-   background: black;
-}
-
-.wrapper-angelita img {
-}
-
 .menu {
    gap: 15px;
    display: flex;
@@ -307,4 +300,22 @@ a.a-tattoo-rubio {
    padding: 100px 0;
    text-align: center;
    text-shadow: 2px 2px black;
+}
+
+.angelita {
+   text-align: center;
+}
+
+.thoth {
+   padding-top: 33px;
+   padding-bottom: 33px;
+   color: white;
+   font-family: serif;
+   text-align: center;
+   max-width: 333px;
+   margin: 0 auto;
+}
+
+.yellow {
+   color: yellow;
 }
