@@ -2,29 +2,12 @@
    <head>
       <?php include 'head.php'; ?>
    </head>
-   <body class="wrapper-home principal-bg">
-      <?php include 'menu-and-contact-data.php'; ?>
-      <?php include 'hashtags.php'; ?>
-      <div class="tattoo-types">
-         <u>Tattoo Styles</u>:<br />
+   <body style="background-color: black; color: white; font-family: nasalization; font-size: 40pt;">
+      <div style="text-align: center; margin-top: 277px;">
+         Próximamente...<br />
+         Coming soon...<br />
          <br />
-         Afro<br />
-         Black & Grey<br />
-         Blackwork<br />
-         Custom Style<br />
-         Dotwork<br />
-         Fantasy<br />
-         Neo Japan<br />
-         Neotrad<br />
-         Old School<br />
-         Realistic<br />
-         Tribal<br />
+         <span style="color: #ffff00;">;-)</span>
       </div>
-      <div class="phone">
-         <div><img src="images/whatsapp.svg" align="absmiddle" /></div>
-         <div style="padding-top: 4px;">+34 643 562 490</div>
-      </div>
-      <script src="js/main.js"></script>
-      <?php // include 'sounds.php'; ?>
    </body>
 </html>
